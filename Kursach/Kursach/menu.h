@@ -177,7 +177,7 @@ public:
 					play = true;
 					a.set_minutes(0);
 					menu_them.stop();
-					window.create(VideoMode(1920,1080), "Soccer", Style::Fullscreen); //Style::Fullscreen
+					window.create(VideoMode::getDesktopMode(), "Soccer", Style::Fullscreen); //Style::Fullscreen
 					a.get_view().reset(sf::FloatRect(0, 0, a.get_field().getSize().x, window.getSize().x / 2));
 				}
 			}
