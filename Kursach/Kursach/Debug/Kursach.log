@@ -1,4 +1,4 @@
-﻿Build started 16.11.2017 17:59:16.
+﻿Build started 16.11.2017 18:02:43.
      1>Project "C:\SFML-FOOTBALL\Cpp-SFML-Soccer\Kursach\Kursach\Kursach.vcxproj" on node 2 (Build target(s)).
      1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Kursach.vcxproj).  This can lead to incorrect clean and rebuild behavior.
      1>ClCompile:
@@ -73,4 +73,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:01.71
+Time Elapsed 00:00:02.29
